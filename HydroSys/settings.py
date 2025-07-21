@@ -76,7 +76,7 @@ DATABASES = {
         'NAME': 'mainDB',    
         'USER': 'root',                   
         'PASSWORD': 'admin',  
-        'HOST': 'MYSQLPHP',              
+        'HOST': '172.18.0.2',              
         'PORT': '3306',
     }
 }
