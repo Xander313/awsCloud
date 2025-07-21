@@ -33,7 +33,6 @@ INSTALLED_APPS = [
     'Aplicaciones.Notificaciones',
     'Aplicaciones.LogsUsuario',
     'Aplicaciones.PWA',
-    'admin_black'
 
 
 ]
